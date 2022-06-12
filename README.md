@@ -36,7 +36,4 @@ pip install -r requirements.txt
 Download and unzip contents from https://github.com/dataprofessor/ml-auto-app/archive/main.zip
 
 ###  Launch the app
-
-```
-streamlit run app.py
-```
+```streamlit run app.py```
